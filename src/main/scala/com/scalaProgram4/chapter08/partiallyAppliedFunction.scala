@@ -1,4 +1,4 @@
-package com.maikle.chapter08
+package com.scalaProgram4.chapter08
 
 object partiallyAppliedFunction {
   def main(args: Array[String]): Unit = {

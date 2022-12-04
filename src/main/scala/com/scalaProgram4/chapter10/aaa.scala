@@ -1,4 +1,4 @@
-package com.maikle.chapter10
+package com.scalaProgram4.chapter10
 
 object aaa {
   def main(args: Array[String]): Unit = {
